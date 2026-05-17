@@ -33,6 +33,11 @@ The app is now installed, you can launch it from the Homebrew Menu.
 Install GESF3 directly from Universal Updater.<br>
 The app is now installed, you can launch it from the Homebrew Menu.
 
+Important: Before using the app you are supposed to manually create 3 folders:
+- `sdmc:/3ds/GESF3/`
+- `sdmc:/3ds/GESF3/input/`
+- `sdmc:/3ds/GESF3/output/`
+
 ## Usage
 
 1. Use GodMode9 to put the save files that you want to convert inside the input folder:
