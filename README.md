@@ -26,7 +26,7 @@ GESF3 is a Nintendo 3DS port of `GBA EEPROM Save Fixer`, a web tool created by e
 There are two easy ways to install this tool on your modded Nintendo 3DS:
 
 1. Manual installation:<br>
-Download the latest release of GESF3 from the GitHub repository. Extract the zip file, then copy the 3ds folder to the root of the microSD card.<br>
+Download GESF3.3dsx from the GitHub repository and copy it to `sdmc:/3ds/`.<br>
 The app is now installed, you can launch it from the Homebrew Menu.
 
 2. Universal Updater support (coming very soon):<br>
