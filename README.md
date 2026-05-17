@@ -154,8 +154,8 @@ You don't usually need to:
 
 It is very difficult to lose save data using this tool, but not 100% impossible.<br>
 If you make progress in a game and you save it on a .sav file, then move (!) that save file to the output folder (!), and then you accidentally convert an older save with the same name from the input folder using GESF3. In that case you would lose your progress because the file would be overwritten... But it is very difficult to end up in this situation for at least two reasons:
-1) You are *never* supposed to place files in the output folder.
-2) You don't need to *move* the important save files to any folder. It is always more safe to *copy* them to the folders instead.<br>
+- You are *never* supposed to place files in the output folder.
+- You don't need to *move* the important save files to any folder. It is always more safe to *copy* them to the folders instead.<br>
 And don't worry, GBA EEPROM save files shouldn't weigh more than 8 KB, they will never fill your memory.
 
 4. What is an EEPROM save file?
