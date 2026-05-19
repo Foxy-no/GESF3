@@ -29,7 +29,7 @@ There are two easy ways to install this tool on your modded Nintendo 3DS:
 Download GESF3.3dsx from the GitHub repository and copy it to `sdmc:/3ds/`.<br>
 The app is now installed, you can launch it from the Homebrew Menu.
 
-2. Universal Updater support (coming very soon):<br>
+2. Universal Updater support:<br>
 Install GESF3 directly from Universal Updater.<br>
 The app is now installed, you can launch it from the Homebrew Menu.
 
